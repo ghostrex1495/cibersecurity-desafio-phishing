@@ -8,6 +8,7 @@ Nota: Esse é um Desafio da Dio.me, utilizado para fins educacionais
 ### Passo-a-passo para configurar o phishing no Kali Linux
 
 - Primeiramente teremos que ter acesso root usando comando: ``` sudo su ``` e logo após, digitamos a senha da nossa maquina:
+  
   ![sudosusenha](https://github.com/user-attachments/assets/11954fb0-4d6b-470e-9c94-2f2981e0b6f6)
 
 - Iniciando o setoolkit: ``` setoolkit ```
