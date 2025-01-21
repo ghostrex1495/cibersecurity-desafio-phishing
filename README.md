@@ -3,6 +3,7 @@ Nota: Esse é um Desafio da Dio.me, utilizado para fins educacionais
 ### Ferramentas
 
 -Kali Linux (https://www.kali.org/)
+
 -Setoolkit (Ferramenta já instala no Kali Linux)
 
 ### Passo-a-passo para configurar o phishing no Kali Linux
