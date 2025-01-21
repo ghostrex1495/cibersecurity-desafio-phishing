@@ -21,9 +21,10 @@ Nota: Esse é um Desafio da Dio.me, utilizado para fins educacionais
 - Opção 2: Vetor de ataque: ``` Web Site Attack Vectors ```
    ![menu2](https://github.com/user-attachments/assets/27195cc3-e50c-4562-a2d7-9e14c622ff96)
 
-- Opção 3: Método de ataque: ```Credential Harvester Attack Method ```
-  
-   ![menu3](https://github.com/user-attachments/assets/7a57338c-4617-4f67-836f-16a57e98c431)
+ - Opção 3: Método de ataque: **`Credential Harvester Attack Method`**
+
+  ![menu3](https://github.com/user-attachments/assets/7a57338c-4617-4f67-836f-16a57e98c431)
+
 
 - Opção 4: Método de ataque: ``` Site Cloner ```
    ![menu4](https://github.com/user-attachments/assets/7b1f7ba2-d629-4ecf-a3fe-66dee47c105a)
